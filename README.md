@@ -201,6 +201,8 @@ The tests mock Ollama calls and do not require a live local model.
 
 ## Demo Video
 
+https://www.loom.com/share/a6b7cbca18b94414bf2049a9442398f6
+
 ## Author
 
 Doruk Ilhan 820220323 GitHub: https://github.com/dorukilhann/local-wikipedia-rag-assistant
