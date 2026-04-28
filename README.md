@@ -201,12 +201,6 @@ The tests mock Ollama calls and do not require a live local model.
 
 ## Demo Video
 
-Demo link placeholder: `TODO: paste Loom or unlisted YouTube URL here after recording`.
+## Author
 
-The 5 minute demo should show:
-
-- System overview.
-- Live ingestion and question answering.
-- Model, vector store, routing, and retrieval decisions.
-- Tradeoffs and limitations.
-- Possible improvements.
+Doruk Ilhan 820220323 GitHub: https://github.com/dorukilhann/local-wikipedia-rag-assistant
