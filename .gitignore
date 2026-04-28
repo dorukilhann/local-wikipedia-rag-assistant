@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.tmp/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local generated data. Rebuild with: python -m wiki_rag.ingest --reset
+data/*
+!data/.gitkeep
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
